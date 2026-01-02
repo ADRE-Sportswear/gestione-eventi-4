@@ -1,1 +1,5 @@
-# gestione-eventi-4
+# Event Manager - Streamlit
+
+## Requisiti
+- Python 3.9+
+- Installare dipendenze:
